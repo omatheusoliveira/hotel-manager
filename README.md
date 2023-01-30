@@ -39,10 +39,3 @@ npm run serve // para executar a aplicação
 
 npm run backend // para executar o db.json
 ```
-#� �h�o�t�e�l�-�m�a�n�a�g�e�r�
-�
-�#� �h�o�t�e�l�-�m�a�n�a�g�e�r�
-�
-�#� �h�o�t�e�l�-�m�a�n�a�g�e�r�
-�
-�
